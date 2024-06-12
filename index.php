@@ -49,13 +49,13 @@
         <h1>Bem-vindo à Minha Página Pessoal</h1>
     </header>
     <div class="container">
-        <p>Esta é a minha página pessoal minimalista. Aqui estão algumas das minhas fotos favoritas:</p>
+        <p>Fotos:</p>
         <div class="photos">
-            <div class="photo" style="background-image: url('foto1.jpg');"></div>
-            <div class="photo" style="background-image: url('foto2.jpg');"></div>
-            <div class="photo" style="background-image: url('foto3.jpg');"></div>
-            <div class="photo" style="background-image: url('foto4.jpg');"></div>
-            <div class="photo" style="background-image: url('foto5.jpg');"></div>
+            <div class="photo" style="background-image: url('imgs/foto1.jpg');"></div>
+            <div class="photo" style="background-image: url('imgs/foto2.jpg');"></div>
+            <div class="photo" style="background-image: url('imgs/foto3.jpg');"></div>
+            <div class="photo" style="background-image: url('imgs/foto4.jpg');"></div>
+            <div class="photo" style="background-image: url('imgs/foto5.jpg');"></div>
         </div>
     </div>
 </body>
