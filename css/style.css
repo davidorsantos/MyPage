@@ -23,8 +23,8 @@ header {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.navbar{
-    color:white;
+.navbar-link{
+    color:white !important;
 }
 
 section{
