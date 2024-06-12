@@ -16,6 +16,10 @@ header {
     padding: 1rem 0;
     text-align: center;
 }
+
+section{
+    width: 100%;
+}
 .container {
     width: 90%;
     max-width: 1000px;
