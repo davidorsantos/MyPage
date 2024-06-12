@@ -19,6 +19,8 @@ header {
 
 header a{
     color: #fff !important;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .navbar{
