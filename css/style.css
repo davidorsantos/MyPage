@@ -17,6 +17,10 @@ header {
     text-align: center;
 }
 
+header a{
+    color: #fff !important;
+}
+
 .navbar{
     color:white;
 }
