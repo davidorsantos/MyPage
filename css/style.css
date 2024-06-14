@@ -27,6 +27,10 @@ header {
     color:white !important;
 }
 
+.navbar-collapse{
+    flex-grow: 0;
+}
+
 section{
     width: 100%;
 }
